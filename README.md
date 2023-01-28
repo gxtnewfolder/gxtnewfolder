@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🔭 I’m currently studying at KMUTT
 <!--
 **gxtnewfolder/gxtnewfolder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
