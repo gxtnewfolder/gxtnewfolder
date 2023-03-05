@@ -6,7 +6,7 @@ I'm a 2nd years student at AE (Automation Engineering), KMUTT
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [annsw.work@gmail.com](mailto:annsw.work@gmail.com)
-
+* <a href="https://resume.io/r/Il4d70nvH" target="_blank" rel="noreferrer">Resume Click</a>
 ### Skills
 
 
